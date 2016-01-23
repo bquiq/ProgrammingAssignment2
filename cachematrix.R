@@ -1,5 +1,4 @@
 ## R Programming - Assignment 2
-## These functions c
 
 ## This files contains two functions used to cache the inverse of an invertible
 ## matrix and to retrieve it. Once computed, the inverse matrix remains 
